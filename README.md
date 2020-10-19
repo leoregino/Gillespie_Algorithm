@@ -1,2 +1,2 @@
-# Gillespie_Algorithm
+# Gillespie Algorithm
 Matlab implementation of Gillespie Algorithm
